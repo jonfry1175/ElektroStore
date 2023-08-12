@@ -5,8 +5,8 @@ import {AiFillBulb} from 'react-icons/ai'
 const MenuBar = () => {
   return (
     <>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary-secondary">
+            <div className="container-fluid">
                 <Link class="navbar-brand logo" to="/">
                     <AiFillBulb className='me-2'/>
                     Elektro Store
