@@ -11,7 +11,7 @@ class ProductController {
                 User,
                 Brand
             ],
-            order: [ //supaya id
+            order: [ //supaya id berurutan
                 [
                     'id', 'asc'
                 ]
