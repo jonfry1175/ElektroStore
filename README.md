@@ -1,4 +1,4 @@
-# ElektroStroe
+# ElektroStore
 
 PERN(PostgreSQL, ExpressJS, ReactJS, NodeJS)
 
@@ -12,4 +12,3 @@ PERN(PostgreSQL, ExpressJS, ReactJS, NodeJS)
 ![noUpdate](noUpdate.png)
 ![noUpdate](noUpdateResult.png)
 ![update](update.png)
-![update](updateResult.png)
