@@ -1,4 +1,4 @@
-# ElektroStroe
+# ElektroStore
 
 PERN(PostgreSQL, ExpressJS, ReactJS, NodeJS)
 
